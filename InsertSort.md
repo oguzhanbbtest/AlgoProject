@@ -8,10 +8,14 @@
 **2-)** Big-O gösterimini yazınız.
     O(n)
 
-**3-)** Time Complexity:
+**3-)** Time Complexity: 18
     Average case: Aradığımız sayının ortada olması,
+       [27,16,2,22,18,6]
     Worst case: Aradığımız sayının sonda olması, 
+       [22,27,16,6,18,,2]
     Best case: Aradığımız sayının dizinin en başında olması.
+       [2,27,16,22,18,6]
+
 
 **4-)**Dizi sıralandıktan sonra 18 sayısı hangi case kapsamına girer? Yazınız.
     [2,6,16,18,22,27]
