@@ -6,7 +6,7 @@
     3-[2,6,16,18,22,27]
 
 **2-)** Big-O gösterimini yazınız.
-    O(n^2)
+    O(n)
 
 **3-)** Time Complexity:
     Average case: Aradığımız sayının ortada olması,
